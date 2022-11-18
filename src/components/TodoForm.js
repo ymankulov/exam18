@@ -31,7 +31,7 @@ const TodoForm = (props) => {
         {props.edit ? (
           <>
             <input
-              placeholder="Алмаштыр на"
+              placeholder="Алмаштырсаныз ШЕФ"
               value={input}
               onChange={handleChange}
               name="text"
@@ -45,7 +45,7 @@ const TodoForm = (props) => {
           <>
             <MdOutlineEditNote size={35} />
             <input
-              placeholder="Кошсон болчудай экен Ава"
+              placeholder="Кошсонуз ШЕФ"
               value={input}
               onChange={handleChange}
               name="text"

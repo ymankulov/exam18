@@ -31,7 +31,7 @@ const TodoForm = (props) => {
         {props.edit ? (
           <>
             <input
-              placeholder="Update todo"
+              placeholder="Алмаштыр на"
               value={input}
               onChange={handleChange}
               name="text"

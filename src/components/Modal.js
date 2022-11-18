@@ -28,6 +28,7 @@ export const ModalBackdrop = styled.div`
   justify-content: center;
   align-items: center;
   
+  
 `;
 
 export const ModalBtn = styled.button`

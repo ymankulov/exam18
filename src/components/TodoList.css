@@ -84,9 +84,9 @@
 }
 
 .edit-icon:hover {
-  color: darkgoldenrod;
+  color: orange;
 }
 
 .delete-icon:hover {
-  color: darkred;
+  color: orange;
 }

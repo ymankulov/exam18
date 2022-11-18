@@ -52,7 +52,9 @@
     border: none;
 }
 
-
+.todo-input-form svg {
+    display: none;
+}
 
 
 
